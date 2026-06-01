@@ -107,9 +107,6 @@ Gaming City | Sept 2025 – Dec 2025
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefkhalil10&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=Youssefkhalil10" />
-</p>
 
 ---
 
