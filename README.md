@@ -100,7 +100,7 @@ Gaming City | Sept 2025 – Dec 2025
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssefkhalil10&show_icons=true&theme=tokyonight)" />
+  <img src="https://ghstats.dev/api/card?username=Youssefkhalil10" />
 </p>
 
 <p align="center">
