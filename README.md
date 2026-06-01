@@ -32,27 +32,38 @@ Building modern, responsive, and high-performance web applications using React a
 
 ## 💻 Tech Stack
 
-### Core Front-End
+### ⚛️ Front-End Development
 HTML5 • CSS3 • JavaScript (ES6+) • React.js • Vite • Responsive Design
 
-### Styling
+---
+
+### 🎨 UI & Styling
 Tailwind CSS • Bootstrap 5 • Styled Components
 
-### State Management
+---
+
+### 🧠 State Management
 Context API • Redux Toolkit • Redux
 
-### APIs & Data
-RESTful APIs • Axios • Fetch API
+---
 
-### Tools
-Git • GitHub • NPM
+### 🌐 Data Fetching & APIs
+React Query • RESTful APIs • Axios • Fetch API
 
-### Backend Services (Used in Projects)
+---
+
+### 🔥 Backend & BaaS
 Firebase • Supabase
 
-### Forms & Testing
+---
+
+### 🧪 Forms & Testing
 React Hook Form • React Testing Library
 
+---
+
+### 🛠️ Tools & Workflow
+Git • GitHub • NPM
 ---
 
 ## 🎓 Education
