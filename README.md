@@ -108,7 +108,7 @@ Gaming City | Sept 2025 – Dec 2025
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefkhalil10&layout=compact&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/card?username=Youssefkhalil10" />
 </p>
 
 ---
