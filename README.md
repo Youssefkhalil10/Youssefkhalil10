@@ -6,6 +6,10 @@
 Building modern, responsive, and high-performance web applications using React and modern front-end technologies.
 </p>
 
+## My Codewars Stats
+
+![Codewars Badge](https://www.codewars.com/users/Youssefkhalil10/badges/large)
+
 ---
 
 ## 🚀 About Me
