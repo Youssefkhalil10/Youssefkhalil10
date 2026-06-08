@@ -12,7 +12,6 @@ Building modern, responsive, and high-performance web applications using React a
     <img src="https://www.codewars.com/users/Youssefkhalil10/badges/large" />
   </a>
 </p>
----
 
 ## 🚀 About Me
 
