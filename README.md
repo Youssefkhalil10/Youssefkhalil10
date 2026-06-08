@@ -7,8 +7,10 @@ Building modern, responsive, and high-performance web applications using React a
 </p>
 
 ## My Codewars Stats
-
+<p align='center'>
+  
 ![Codewars Badge](https://www.codewars.com/users/Youssefkhalil10/badges/large)
+</p>
 
 ---
 
